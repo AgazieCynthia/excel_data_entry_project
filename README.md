@@ -16,6 +16,17 @@ This project demonstrates data entry and spreadsheet management skills using Mic
 - Sorting and filtering datasets
 - Data Validation
 - Preparing data for analysis
+  
+- ## Project Review
+This project demonstrates the ability to handle structured data accurately and prepare information for business use. The process involved entering records, reviewing data quality, correcting inconsistencies, and organizing information in Microsoft Excel.
+
+## Key Tasks Completed
+
+- Entered and maintained accurate records in Excel
+- Reviewed data for errors and missing information
+- Applied formatting to improve readability
+- Organized data into a structured table
+- Prepared data for reporting and analysis
 
 ## Project Screenshots
 
